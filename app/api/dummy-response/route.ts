@@ -54,6 +54,11 @@ export function GET(){
                 id: 10,
                 name: "Ivy Turner",
                 email: "ivy.turner@example.com"
+             },
+             {
+                id: 11,
+                name: "Jack White",
+                email: "jack.white@example.com"
              }
         ]
 
